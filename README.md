@@ -1,6 +1,6 @@
 # pAWESOME
 
-->Swipe up to refresh
+->Swipe down to refresh
 ->Shared element transitions
 ->Animated Like button
 
